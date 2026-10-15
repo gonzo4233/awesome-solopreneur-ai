@@ -641,6 +641,7 @@ See the [`prompts/`](prompts/) directory for full, detailed prompts:
 - [One Useful Thing](https://oneusefulthing.org) - Ethan Mollick's Substack on using AI at work. Best research-backed practical AI writing available.
 - [Lenny's Newsletter](https://lennysnewsletter.com) - Product and growth for founders. Increasingly AI-focused and excellent.
 - [The WEDGE Method Blog](https://thewedgemethodai.com/blog) - Practical AI frameworks for solopreneurs and consultants.
+- [The AI Till](https://theaitill.com/) - Free weekday email and guides for UK sole traders and tradespeople: one AI tool or tip per issue, with prices checked on the provider's own page.
 
 ### Podcasts
 
